@@ -1,7 +1,7 @@
 # 👋 Bem-vinda à DSE Girls!
 
 <p align="center">
-  <img src="./BACKGROUNDS DSE GIRLS-4@4x.png" alt="Logo da DSE Girls" width="200">
+  <img src="./IMG_9663.PNG" alt="Logo da DSE Girls" width="200">
 </p>
 
 <p>
