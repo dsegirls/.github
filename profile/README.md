@@ -1,7 +1,7 @@
 # 👋 Bem-vinda à DSE Girls!
 
 <p align="center">
-  <img src="./banner_dse_girls_1600x400.png" alt="Logo da DSE Girls" width="1601">
+  <img src="https://raw.githubusercontent.com/dsegirls/.github/main/profile/banner_dse_girls_1600x400.png" alt="DSE Girls - Comunidade Feminina da DSE" width="100%">
 </p>
 
 <p>
